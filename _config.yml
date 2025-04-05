@@ -1,0 +1,19 @@
+# _config.yml
+title: My Jekyll Site
+description: A simple description of my site
+baseurl: "" # the subpath of your site, e.g., /blog
+url: "http://example.com" # the base URL of your site
+
+# Author Information
+author:
+  name: "Your Name"
+  email: "you@example.com"
+
+# Social Media Links
+social_links:
+  twitter: "https://twitter.com/yourhandle"
+  github: "https://github.com/yourusername"
+  linkedin: "https://www.linkedin.com/in/yourname"
+
+# Build settings
+markdown: kramdown
