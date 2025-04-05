@@ -4,6 +4,9 @@ description: A simple description of my site
 baseurl: "" # the subpath of your site, e.g., /blog
 url: "http://example.com" # the base URL of your site
 
+#theme
+remote_theme: pages-themes/tactile@v0.2.0
+
 # Author Information
 author:
   name: "Your Name"
