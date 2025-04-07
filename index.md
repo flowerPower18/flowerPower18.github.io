@@ -8,3 +8,7 @@ title: Home
 This is the homepage of my portfolio website. Here you'll find information about my projects, skills, and background.
 
 [About Me](aboutme.md)
+
+[Projects](projects.md)
+
+[Resume](resume.md)
