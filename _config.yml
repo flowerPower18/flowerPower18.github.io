@@ -3,8 +3,8 @@
 # _config.yml
 
 title: "Pragya Sharma's Portfolio"
-description: "Showcasing my work and projects"
-baseurl: ""  # Leave empty unless you're using GitHub Pages with a custom subdomain
+
+baseurl: ""  
 
 # Navigation links
 nav:
@@ -20,9 +20,9 @@ nav:
 remote_theme: pages-themes/tactile@v0.2.0
 
 # Author Information
-author:
-  name: "Your Name"
-  email: "you@example.com"
+author: 
+  name: "Pragya Sharma"
+  email: "pragya.sharma@csu.fullerton.edu"
 
 # Social Media Links
 social_links:
