@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Welcome to My Portfolio!
 
-My name is [Your Name], and I'm a web developer with a passion for creating beautiful and functional websites.
+Hello! My name is Pragya Sharma, a current first year at California State University, Fullerton. The following are specific details regarding my skills and strengths. 
 
 ### Skills:
 - HTML, CSS, JavaScript
@@ -14,4 +14,8 @@ My name is [Your Name], and I'm a web developer with a passion for creating beau
 - Ruby on Rails
 - and more...
 
-You can contact me via email at [your.email@example.com](mailto:your.email@example.com).
+My Email:
+
+LinkedIn:
+
+GitHub:
