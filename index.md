@@ -13,6 +13,6 @@ This is the homepage of my portfolio website. Linked below are my projects, resu
 
 [Resume](resume.md)
 
-[My photo](images/about_me.png)
+![My photo](images/about_me.png)
 
 <img src="images/about_me.png" alt="My Photo" />
